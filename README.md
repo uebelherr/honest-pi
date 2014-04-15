@@ -1,6 +1,8 @@
 #What's an Honest Policy Informatician To Do?
 version 0.1.4
 
+## Test post: JMU
+
 ##10 Second Briefing:
 - if you can read this page, you're invited to co-write this [article](https://github.com/ASU-CPI/honest-pi/tree/master/article) with us.
 - if you're really stuck, ask a question on the [wiki - question page](https://github.com/ASU-CPI/honest-pi/wiki/Questions).
